@@ -192,19 +192,20 @@ http://127.0.0.1:5000
 
 ## 🏠 Home Page
 
-> Add Home Page Screenshot
+> <img width="1896" height="963" alt="image" src="https://github.com/user-attachments/assets/23c0fffa-10a6-4253-b5ea-fb9ebbf151d2" />
 
 ---
 
 ## 📋 Prediction Page
 
-> Add Prediction Page Screenshot
+> <img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/a263767e-5120-443c-a827-61376a8c2455" />
+
 
 ---
 
 ## 📈 Prediction Result
 
-> Add Result Screenshot
+> ![Uploading image.png…]()
 
 ---
 
