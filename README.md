@@ -205,7 +205,8 @@ http://127.0.0.1:5000
 
 ## 📈 Prediction Result
 
-> ![Uploading image.png…]()
+> <img width="1905" height="970" alt="image" src="https://github.com/user-attachments/assets/cc93720e-c82b-4995-ae68-53c076181482" />
+
 
 ---
 
